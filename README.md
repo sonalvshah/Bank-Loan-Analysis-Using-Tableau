@@ -1,5 +1,6 @@
-
 # Bank Loan Report - README
+
+Check out the interactive dashboard here - [Tableau Public][https://public.tableau.com/app/profile/shahsv/viz/BankLoanInsightsDashboard/SUMMARY]
 
 ## Overview
 
